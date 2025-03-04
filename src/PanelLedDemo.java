@@ -1,11 +1,11 @@
 import Panel2D.PanelLed;
 import Panel2D.TiraLed;
 import java.awt.Color;
-public class PanleLedDemo {
+public class PanelLedDemo {
 
 	public static void main(String[] args) {
 
-		PanleLedDemo app = new PanleLedDemo();
+		PanelLedDemo app = new PanelLedDemo();
 		app.run();
 		
 	}
